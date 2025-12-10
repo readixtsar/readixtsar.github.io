@@ -1,0 +1,3 @@
+#### About the Workshop
+
+READIxTSAR is a joint initiative between two previous workshops of mutual interest: Tools and Resources for REAding DIfficulties (READI, hosted at LREC 2020,22,24) and Text Simplification, Accessibility and Readability (TSAR, EMNLP 2022,24,25, RANLP 2023). This year at LREC, the committees of the two events have merged to deliver a joint event, uniting accessibility research communities under a common umbrella. We aim for READIxTSAR to be a focal point for communities of researchers working on reading difficulties, accessibility and simplification to network, share best practice and form new collaborations.
