@@ -36,6 +36,8 @@ The joint event will accept submissions at the intersection of the research area
 
 We invite submissions on topics of interest between 4 and 8 pages of content. The page limit of 8 pages does not include acknowledgements, references, potential Ethics Statements and discussion on Limitations in line with the policy of the main LREC conference. All submissions must follow the LREC stylesheet, available at [https://lrec2026.info/authors-kit/](https://lrec2026.info/authors-kit/).
 
+Submitted manuscripts may contain appendices, however all information that is required for the correct interpretation of the manuscript must be included in the main body of the paper and reviewers will not be required to read appendices to form their final judgment of the work.
+
 All submissions are double-blind. Any submissions which are not-anonymised, over-length, poorly formatted or make excessive use of appendices to circumvent page limits are liable to desk-rejection.
 
 At the time of submission, authors are offered the opportunity to share related language resources with the community. All repository entries are linked to the LRE Map, which provides metadata for the resource.
