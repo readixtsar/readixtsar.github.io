@@ -30,6 +30,8 @@ The joint event will accept submissions at the intersection of the research area
 | Camera Ready            | 30th March 2026        |
 | READIxTSAR Workshop     | 11th May 2026          |
 
+**All dates are AoE (UTC-12:00)**
+
 <div style="margin-bottom: 2rem;"></div>
 
 #### Submission Instructions
