@@ -23,12 +23,12 @@ The joint event will accept submissions at the intersection of the research area
 
 #### Important Dates (Provisional)
 
-| Event                   | Date                   |
-| ----------------------- | ---------------------- |
-| Submission Deadline     | **23rd February 2026** |
-| Notification of Results | 16th March 2026        |
-| Camera Ready            | 30th March 2026        |
-| READIxTSAR Workshop     | 11th May 2026          |
+| Event                   | Date               |
+| ----------------------- | ------------------ |
+| Submission Deadline     | **2nd March 2026** |
+| Notification of Results | 16th March 2026    |
+| Camera Ready            | 30th March 2026    |
+| READIxTSAR Workshop     | 11th May 2026      |
 
 **All dates are 23:59 AoE (UTC-12:00)**
 
