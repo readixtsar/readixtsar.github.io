@@ -21,7 +21,7 @@ The joint event will accept submissions at the intersection of the research area
 - Educational devices and/or smart technologies for supporting reading and learning
 - Domain specific applications of the above topics (e.g. health, legal)
 
-#### Important Dates (Provisional)
+#### Important Dates
 
 | Event                   | Date               |
 | ----------------------- | ------------------ |
