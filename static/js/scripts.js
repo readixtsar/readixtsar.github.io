@@ -2,7 +2,7 @@
 
 const content_dir = 'contents/'
 const config_file = 'config.yml'
-const section_names = ['home', 'Call for Papers', 'Organization', 'Acknowledgements']
+const section_names = ['home', 'Call for Papers', 'Organization', 'Registration', 'Acknowledgements']
 
 
 window.addEventListener('DOMContentLoaded', event => {
@@ -53,8 +53,23 @@ window.addEventListener('DOMContentLoaded', event => {
         fetch(content_dir + name + '.md')
             .then(response => response.text())
             .then(markdown => {
+
+                // If the markdown file is wrapped in triple-backtick fences (e.g. ```markdown),
+                // unwrap it so the markdown renders normally.
+                const trimmed = markdown.trim();
+                if (trimmed.startsWith('```')) {
+                    const firstNewline = markdown.indexOf('\n');
+                    const lastFence = markdown.lastIndexOf('```');
+                    if (firstNewline !== -1 && lastFence > firstNewline) {
+                        markdown = markdown.slice(firstNewline + 1, lastFence);
+                    }
+                }
+
                 const html = marked.parse(markdown);
-                document.getElementById(name + '-md').innerHTML = html;
+                const target = document.getElementById(name + '-md');
+                if (target) {
+                    target.innerHTML = html;
+                }
             })
             .catch(error => console.log(error));
     })
