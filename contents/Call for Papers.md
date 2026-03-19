@@ -26,7 +26,7 @@ The joint event will accept submissions at the intersection of the research area
 | Event                   | Date               |
 | ----------------------- | ------------------ |
 | Submission Deadline     | **2nd March 2026** |
-| Notification of Results | 20th March 2026    |
+| Notification of Results | 23rd March 2026    |
 | Camera Ready            | 30th March 2026    |
 | READIxTSAR Workshop     | 11th May 2026      |
 
