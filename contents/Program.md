@@ -14,10 +14,10 @@
 
 **09:10–10:00 &nbsp; Keynote Session**
 
-| Time        | Presentation                               |
-| ----------- | ------------------------------------------ |
-| 09:10–09:35 | _The iRead4Skills Project_<br>Raquel Amaro |
-| 09:35–10:00 | _The iDEM Project_<br>Horacio Saggion      |
+| Time        | Presentation                                                         |
+| ----------- | -------------------------------------------------------------------- |
+| 09:10–09:35 | [_The iRead4Skills Project_](#abstract-iread4skills)<br>Raquel Amaro |
+| 09:35–10:00 | [_The iDEM Project_](#abstract-idem)<br>Horacio Saggion              |
 
 ---
 
@@ -69,7 +69,7 @@
 
 ## Keynote Abstracts
 
-### The iRead4Skills Project
+### <a id="abstract-iread4skills"></a>The iRead4Skills Project
 
 **Raquel Amaro** - NOVA University Lisbon, Portugal
 
@@ -81,7 +81,7 @@ The iRead4Skills system comprises two complementary tools: a Text Classifier pro
 
 ---
 
-### The iDEM Project
+### <a id="abstract-idem"></a>The iDEM Project
 
 **Horacio Saggion**
 
