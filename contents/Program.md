@@ -12,21 +12,21 @@
 
 ---
 
-**09:10–10:00 &nbsp; Keynote Session**
-
-| Time        | Presentation                                                         |
-| ----------- | -------------------------------------------------------------------- |
-| 09:10–09:35 | [_The iRead4Skills Project_](#abstract-iread4skills)<br>Raquel Amaro |
-| 09:35–10:00 | [_The iDEM Project_](#abstract-idem)<br>Horacio Saggion              |
-
----
-
-**10:00–10:30 &nbsp; Oral Presentations I**
+**09:10–09:40 &nbsp; Oral Presentations I**
 
 | Time        | Presentation                                                                                                                                                                                             |
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 10:00–10:15 | _Revisiting German Complex Word Identification: Contextualized LLMs and Feature Injection_<br>Thorben Schomacker, Seid Muhie Yimam, Chris Biemann and Marina Tropmann-Frick                              |
-| 10:15–10:30 | _Book Complexity Level Assignment in French and Portuguese_<br>Jorge Baptista, David Antunes, Wafa Aissa, Julien Zakhia Doueihi, Hanh Trang Tran Pham, Eugénio Ribeiro, Thomas François and Raquel Amaro |
+| 09:10–09:25 | _Revisiting German Complex Word Identification: Contextualized LLMs and Feature Injection_<br>Thorben Schomacker, Seid Muhie Yimam, Chris Biemann and Marina Tropmann-Frick                              |
+| 09:25–09:40 | _Book Complexity Level Assignment in French and Portuguese_<br>Jorge Baptista, David Antunes, Wafa Aissa, Julien Zakhia Doueihi, Hanh Trang Tran Pham, Eugénio Ribeiro, Thomas François and Raquel Amaro |
+
+---
+
+**09:40–10:30 &nbsp; Keynote Session**
+
+| Time        | Presentation                                                         |
+| ----------- | -------------------------------------------------------------------- |
+| 09:40–10:05 | [_The iRead4Skills Project_](#abstract-iread4skills)<br>Raquel Amaro |
+| 10:05–10:30 | [_The iDEM Project_](#abstract-idem)<br>Serge Sharoff                |
 
 ---
 
@@ -48,7 +48,7 @@
 | _LLM-Generated Stories for Students with Significant Cognitive Disabilities: Promise, Gaps, and Evaluation Framework_<br>Pragati Maheshwary, Ananya Ganesh and Shamya Karumbaiah      |
 | _Evaluating Transformer Model Family Representations Through Automated Essay Scoring_<br>Akchay Ozten and Rodrigo Wilkens                                                             |
 | _Proficiency-Controlled Text Simplification in European Portuguese: A Preliminary Study using Prompting Approaches_<br>Eugénio Ribeiro, David Antunes, Nuno Mamede and Jorge Baptista |
-| _Automatic Text Simplification for French Medical Documents with LLMs: The Role of Target Audience and Genre_<br>Rémi Cardon and A. Seza Dogruoz                                      |
+| _Automatic Text Simplification for French Medical Documents with LLMs: The Role of Target Audience and Genre_<br>Rémi Cardon and A. Seza Doğruöz                                      |
 
 ---
 
@@ -58,7 +58,7 @@
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 11:30–11:50 | _A Learner-Oriented Annotated Resource of French Multiword Expressions for Text Adaptation in Foreign Language Reading_<br>Anna Kalinina, Thomas François, Hélène Vassiliadou and Amalia Todirascu |
 | 11:50–12:10 | _A Meta-evaluation of Automatic Metrics for Elaborative Simplification_<br>Abdullah Alshatti, Steven Schockaert and Fernando Alva-Manchego                                                         |
-| 12:10–12:30 | _Readability Measures in Automatic Text Simplification: Is Simplification Quality a Coherent Construct?_<br>Rémi Cardon and A. Seza Dogruoz                                                        |
+| 12:10–12:30 | _Readability Measures in Automatic Text Simplification: Is Simplification Quality a Coherent Construct?_<br>Rémi Cardon and A. Seza Doğruöz                                                        |
 | 12:30–12:50 | _Language Proficiency as a Recoverable Dimension in Multilingual LLM Embeddings_<br>Rodrigo Wilkens                                                                                                |
 
 ---
@@ -83,6 +83,6 @@ The iRead4Skills system comprises two complementary tools: a Text Classifier pro
 
 ### <a id="abstract-idem"></a>The iDEM Project
 
-**Horacio Saggion**
+**Serge Sharoff**
 
 _Abstract coming soon._
