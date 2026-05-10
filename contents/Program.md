@@ -4,6 +4,8 @@
 #Program-md table tr:nth-child(odd) td { background-color: rgba(0,0,0,0.01); }
 </style>
 
+**[📄 Workshop Proceedings](http://lrec-conf.org/proceedings/lrec2026/workshops/readixtsar/2026.readixtsar-1.0.pdf)**
+
 ### Monday, May 11, 2026
 
 ---
